@@ -1,2 +1,32 @@
-# Animated-Website
-A fully animated modern website built using HTML, CSS, JavaScript, and GSAP. Features include custom cursor, scroll animations, responsive design, and smooth transitions.
+# 🌐 Animated Website
+
+A fully animated and interactive frontend website built with **HTML**, **CSS**, **JavaScript**, and **GSAP**.  
+This project showcases smooth scroll animations, custom cursor, page transitions, and modern UI – all with no backend.
+
+---
+
+## 🚀 Features
+
+- 🎯 Fully responsive design
+- 🖱️ Custom animated cursor
+- ✨ GSAP scroll-based animations
+- 📜 Section-wise transitions
+- 🎨 Clean and modern UI
+
+---
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- GSAP (GreenSock Animation Platform)
+
+---
+
+## 🔗 Live Demo
+
+[👉 View Live Site](https://mohitshxrma45.github.io/Animated-Website/)
+
+---
+
