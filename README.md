@@ -24,9 +24,7 @@ This project showcases smooth scroll animations, custom cursor, page transitions
 
 ---
 
-## 🔗 Live Demo
 
-[👉 View Live Site](https://mohitshxrma45.github.io/Animated-Website/)
 
----
+
 
